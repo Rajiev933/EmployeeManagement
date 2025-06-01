@@ -1,0 +1,17 @@
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\bin\Debug\net9.0\EmployeeManagement.Infrastructure.deps.json
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\bin\Debug\net9.0\EmployeeManagement.Infrastructure.dll
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\bin\Debug\net9.0\EmployeeManagement.Infrastructure.pdb
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\bin\Debug\net9.0\EmployeeManagement.Application.dll
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\bin\Debug\net9.0\EmployeeManagement.Domain.dll
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\bin\Debug\net9.0\EmployeeManagement.Application.pdb
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\bin\Debug\net9.0\EmployeeManagement.Domain.pdb
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.AssemblyInfo.cs
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\obj\Debug\net9.0\Employee.66F3489C.Up2Date
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.dll
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\obj\Debug\net9.0\refint\EmployeeManagement.Infrastructure.dll
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.pdb
+D:\C#\EmployeeManagemant\EmployeeManagement.Infrastructure\obj\Debug\net9.0\ref\EmployeeManagement.Infrastructure.dll
