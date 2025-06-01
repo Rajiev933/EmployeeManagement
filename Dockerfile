@@ -8,8 +8,7 @@ COPY EmployeeManagement.sln ./
 COPY EmployeeManagement.API/EmployeeManagement.API.csproj EmployeeManagement.API/
 COPY EmployeeManagement.Application/EmployeeManagement.Application.csproj EmployeeManagement.Application/
 COPY EmployeeManagement.Infrastructure/EmployeeManagement.Infrastructure.csproj EmployeeManagement.Infrastructure/
-COPY EmployeeManagement.Domain/EmployeeManagement.Domain.csproj EmployeeManagement.Domain/  # <-- Add this line
-
+COPY EmployeeManagement.Domain/EmployeeManagement.Domain.csproj EmployeeManagement.Domain/
 
 # Restore dependencies for the entire solution
 RUN dotnet restore EmployeeManagement.sln
@@ -31,7 +30,6 @@ WORKDIR /app
 # Copy published app from build stage
 COPY --from=build /app/publish .
 
-# Expose port if your app listens on a specific port
 EXPOSE 5050
 
 # Start the app
