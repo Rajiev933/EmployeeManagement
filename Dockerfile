@@ -7,7 +7,6 @@ WORKDIR /src
 COPY EmployeeManagement.sln ./
 COPY EmployeeManagement.API/EmployeeManagement.API.csproj EmployeeManagement.API/
 COPY EmployeeManagement.Application/EmployeeManagement.Application.csproj EmployeeManagement.Application/
-COPY EmployeeManagement.Application/EmployeeManagement.Application.csproj EmployeeManagement.Domain/
 COPY EmployeeManagement.Infrastructure/EmployeeManagement.Infrastructure.csproj EmployeeManagement.Infrastructure/
 
 # Restore dependencies for the entire solution
