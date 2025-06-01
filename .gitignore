@@ -1,5 +1,40 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+﻿## Ignore Visual Studio temporary files, build results, and
+## user-specific files
 
-/EmployeeManagement.sln
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VSCode settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# VS working folder
+.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# Database
+*.mdf
+*.ldf
+
+# Environment files
+.env
+
+# Other
+*.DS_Store
+*.db
+*.db-shm
+*.db-wal

@@ -8,7 +8,7 @@ namespace EmployeeManagement.Infrastructure.Repositories
     public class EmployeeRepository : IEmployeeRepository
     {
         private readonly AppDbContext _context;
-
+        //repository
         public EmployeeRepository(AppDbContext context)
         {
             _context = context;
